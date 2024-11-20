@@ -6,6 +6,7 @@ LoginDockerDeskInFedoraWS
 1.  Install Docker desktop in Laptop/PC.
 2.  Open Terminal
 Type this command
+
 `$ gpg --generate-key`
 
 ![image](https://github.com/user-attachments/assets/72a8f8d3-147d-461e-baa7-99c318abca56)
@@ -24,6 +25,7 @@ Type this command
 7. Copy pub key
 8. Open new terminal 
 Type this command
+
 `pass init ` and paste pub key
 
 9. Try docker login using
